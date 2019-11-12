@@ -8,7 +8,7 @@ You can download the source code and compile the map yourself.
 2. Compile the code using the menu "Simulator/Build"  
 3. Generate hdmap using the menu "Simulator/Export HD Map", and copy to apollo map modules.   
 
-You can also download the build version from the Baidu network disk. [Link](https://pan.baidu.com/s/1uCNX3MogX8rrZwleICz-9Q). Extraction code: **p3lp**.  
+You can also download the build version from the Baidu network disk. [Link](https://pan.baidu.com/s/1uCNX3MogX8rrZwleICz-9Q). Extraction code **p3lp**.  
 
 ## Questions
 If you have any question, pls feel free to tell us.  
